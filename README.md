@@ -6,7 +6,7 @@ If you have additional questions or require more information about our Privacy P
 This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Info Malwana. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the Free Privacy Policy Generator.
 
 Consent
-By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+By using our app, you hereby consent to our Privacy Policy and agree to its terms.
 
 Information we collect
 The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
@@ -18,9 +18,9 @@ When you register for an Account, we may ask for your contact information, inclu
 How we use your information
 We use the information we collect in various ways, including to:
 
-Provide, operate, and maintain our website
-Improve, personalize, and expand our website
-Understand and analyze how you use our website
+Provide, operate, and maintain our app
+Improve, personalize, and expand our app
+Understand and analyze how you use our app
 Develop new products, services, features, and functionality
 Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes
 Send you emails
